@@ -39,7 +39,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-[Click here to view demo](Demo.mp4)
+<video src="https://github.com/RaviTejaGattu1/Astrodash/blob/main/Demo.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
 
 <!-- Replace this with whatever GIF tool you used! -->
