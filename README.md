@@ -37,6 +37,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+Demo.mp4
+
 <video src='https://github.com/RaviTejaGattu1/Astrodash/blob/main/Demo.mp4' width=180/>
 
 https://github.com/RaviTejaGattu1/Astrodash/blob/main/Demo.mp4
