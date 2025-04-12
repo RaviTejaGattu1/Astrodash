@@ -1,10 +1,10 @@
-# Web Development Project 6 - *Name of App Here*
+# Web Development Project 6 - *Astrodash*
 
-Submitted by: **Your Name Here**
+Submitted by: **Ravi Teja Gattu**
 
-This web app: **insert description**
+This web app: **Astrodash**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
