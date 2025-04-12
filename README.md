@@ -40,6 +40,10 @@ Here's a walkthrough of implemented user stories:
 
 https://raw.githubusercontent.com/RaviTejaGattu1/Astrodash/main/Demo.mp4
 
+<video src="https://raw.githubusercontent.com/RaviTejaGattu1/Astrodash/main/Demo.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
