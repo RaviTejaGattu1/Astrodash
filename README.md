@@ -42,6 +42,8 @@ Here's a walkthrough of implemented user stories:
 https://github.com/user-attachments/assets/6da0d7e5-0277-40f8-b0b3-d1baea1ddc45
 
 
+GIF:
+![Demo](https://github.com/user-attachments/assets/0b6d80f4-0769-4daf-8644-053f8fccc6a9)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
