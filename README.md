@@ -47,7 +47,7 @@ GIF:
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [... ](https://ezgif.com/) 
+GIF created with EZGIF
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
