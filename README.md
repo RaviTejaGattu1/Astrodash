@@ -38,13 +38,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://raw.githubusercontent.com/RaviTejaGattu1/Astrodash/main/Demo.mp4
 
-<video src="https://raw.githubusercontent.com/RaviTejaGattu1/Astrodash/main/Demo.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/6da0d7e5-0277-40f8-b0b3-d1baea1ddc45
 
-[Download Demo Video](https://raw.githubusercontent.com/RaviTejaGattu1/Astrodash/main/Demo.mp4)
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
