@@ -44,6 +44,8 @@ https://raw.githubusercontent.com/RaviTejaGattu1/Astrodash/main/Demo.mp4
   Your browser does not support the video tag.
 </video>
 
+[Download Demo Video](https://raw.githubusercontent.com/RaviTejaGattu1/Astrodash/main/Demo.mp4)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
